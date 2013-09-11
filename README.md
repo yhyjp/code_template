@@ -1,4 +1,4 @@
 template
 =============
 
-code template for contests
+code templates for contests
