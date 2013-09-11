@@ -1,4 +1,4 @@
-code_template
+テンプレート
 =============
 
 code template for contests
